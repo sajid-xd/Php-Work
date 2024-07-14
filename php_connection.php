@@ -89,7 +89,6 @@
             </div>
             <button type="submit" class="btn btn-primary" name="btn">Submit</button>
         </form>
-
         <table class="table table-bordered">
             <thead>
                 <tr>
